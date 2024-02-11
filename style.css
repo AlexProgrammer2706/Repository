@@ -1,1 +1,62 @@
+body {
+    font-family: sans-serif;
+}
 
+header {
+    background-color: blue;
+}
+
+h1 {
+    color: orange;
+}
+
+footer {
+    background-color: red;
+    margin: 20px;
+    padding: 20px;
+}
+
+footer p {
+    padding: 20px;
+    margin: 20px;
+    background-color: green;
+}
+
+nav a {
+    margin: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: yellow;
+    border: 3px solid navy;
+    border-radius: 10px;
+    background-color: navy;
+}
+
+.colors{
+    background-color: salmon;
+}
+
+.colors2{
+    background-color: salmon;
+}
+
+.colors3{
+    background-color: salmon;
+}
+
+.colors4{
+    background-color: salmon;
+}
+
+main {
+    padding: 20px;
+}
+
+h2 {
+    color: goldenrod;
+}
+
+a{
+    text-decoration: none;
+    color: lightseagreen;
+}
